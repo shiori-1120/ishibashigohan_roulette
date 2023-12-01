@@ -22,15 +22,16 @@
 	letter-spacing:0;
 }
 .e3_7 { 
-	width:390px;
-	height:552px;
-	position:absolute;
-	left:0px;
-	top:50px;
-	background-image:url(https://github.com/shiori-1120/ishibashigohan_roulette/blob/main/images/____________lp__1.png?raw=true);
-	background-repeat:no-repeat;
-	background-size:cover;
+    width: 90vw; /* 画面の横幅の90%に合わせる */
+    height: auto; /* 縦幅は自動調整（アスペクト比を保持） */
+    position: absolute;
+    left: 0;
+    top: 50px;
+    background-image: url(https://github.com/shiori-1120/ishibashigohan_roulette/blob/main/images/____________lp__1.png?raw=true);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
 .e1_5 { 
 	background-color:rgba(221.00000202655792, 0, 26.000000350177288, 1);
 	width:390px;
